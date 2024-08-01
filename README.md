@@ -14,9 +14,9 @@ class About(Me):
             "ProgramingLanguages": ["Python", "SQL", "JavaScript", "Java", "Scala", "C"],
             "OtherLanguages": ["HTML", "CSS", "JSON", "YAML", "Markdown"],
             "Databases": ["MongoDB", "MySQL", "PostgreSQL", "Microsoft SQL Server", "SQLite"],
-            "DevOpsTools": ["Docker", "Kubernetes"],
+            "DevOpsTools": ["Git", "Docker", "Kubernetes"],
             "OperatingSystems": ["Windows", "Ubuntu", "macOS"],
-            "OtherTools": ["Git", "Figma", "Adobe XD", "Lightroom"],
+            "OtherTools": ["Adobe XD", "Figma", "Lightroom"],
             "Learning": ["AWS", "PowerShell", "Ansible"]
         }
 
