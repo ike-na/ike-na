@@ -7,9 +7,8 @@
 
 ```python
 
-class About(Me):
+class About:
     def __init__(self):
-        super().__init__()
         self.my_tools = {
             "ProgramingLanguages": ["Python", "SQL", "JavaScript", "Java", "Scala", "C"],
             "OtherLanguages": ["HTML", "CSS", "JSON", "YAML", "Markdown"],
