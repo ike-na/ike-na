@@ -1,16 +1,25 @@
-## Hi there 👋
+<h3 align="center">
+        <samp>
+          > Hey There!, I am Iikka /ᐠ｡ꞈ｡ᐟ\
+        </samp>
+</h3>
 
-<!--
-**ike-na/ike-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class About(Me):
+    def __init__(self):
+        super().__init__()
+        self.my_tools = {
+            "ProgramingLanguages": ["Python", "SQL", "JavaScript", "Java", "Scala", "C"],
+            "OtherLanguages": ["HTML", "CSS", "JSON", "YAML", "Markdown"],
+            "Databases": ["MongoDB", "MySQL", "PostgreSQL", "Microsoft SQL Server", "SQLite"],
+            "DevOpsTools": ["Docker", "Kubernetes"],
+            "OperatingSystems": ["Windows", "Ubuntu", "macOS"],
+            "OtherTools": ["Git", "Figma", "Adobe XD", "Lightroom"],
+            "Learning": ["AWS", "PowerShell", "Ansible"]
+        }
+
+```
+
+
