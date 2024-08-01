@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>
-          > Hey There!, I am Iikka /ᐠ｡ꞈ｡ᐟ\
+          > Hey There! I am Iikka /ᐠ｡ꞈ｡ᐟ\
         </samp>
 </h3>
 
