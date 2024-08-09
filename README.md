@@ -16,7 +16,7 @@ class About(Me):
             "Databases": ["MongoDB", "MySQL", "PostgreSQL", "Microsoft SQL Server", "SQLite"],
             "DevOpsTools": ["Git", "Docker", "Kubernetes"],
             "OperatingSystems": ["Windows", "Ubuntu", "macOS"],
-            "OtherTools": ["Adobe XD", "Figma", "Lightroom"],
+            "OtherTools": ["Adobe XD", "Figma", "Photoshop", "Lightroom"],
             "Learning": ["AWS", "PowerShell", "Ansible"]
         }
 
